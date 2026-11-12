@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://paralaxehq.vercel.app/icon.svg" width="96" alt="Paralaxe">
+  <img src="https://tracksidehq.vercel.app/icon.svg" width="96" alt="Trackside">
 </p>
 
-<h1 align="center">Paralaxe</h1>
+<h1 align="center">Trackside</h1>
 
 <p align="center">
   <b>Run AI agents side by side, under your rules.</b><br>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://paralaxehq.vercel.app">Website</a> ·
+  <a href="https://tracksidehq.vercel.app">Website</a> ·
   <b>Coming soon</b> · open source under Apache-2.0
 </p>
 
