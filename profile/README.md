@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://tracksidehq.vercel.app">
-    <img src="https://tracksidehq.vercel.app/icon.svg" width="112" alt="Trackside icon: the letter T drawn as a track junction">
+  <a href="https://tracksidehq.dev">
+    <img src="https://tracksidehq.dev/icon.svg" width="112" alt="Trackside icon: the letter T drawn as a track junction">
   </a>
 </p>
 
@@ -25,12 +25,12 @@
 </p>
 
 <p align="center">
-  <a href="https://tracksidehq.vercel.app"><b>Website</b></a>
+  <a href="https://tracksidehq.dev"><b>Website</b></a>
 </p>
 
 <p align="center">
-  <a href="https://tracksidehq.vercel.app">
-    <img src="https://tracksidehq.vercel.app/og.png" width="820" alt="The Trackside website: Run AI agents side by side, under your rules">
+  <a href="https://tracksidehq.dev">
+    <img src="https://tracksidehq.dev/og.png" width="820" alt="The Trackside website: Run AI agents side by side, under your rules">
   </a>
 </p>
 
@@ -71,7 +71,7 @@ In active development, macOS first. Working today in development builds:
 | Hash-chained audit trail, verify and export | working |
 | Process sandbox, hooks for other agents, HTTP MCP servers | not yet |
 
-What Trackside does not do yet is said as plainly as what it does. The limits of each item are on the [website](https://tracksidehq.vercel.app/#status).
+What Trackside does not do yet is said as plainly as what it does. The limits of each item are on the [website](https://tracksidehq.dev/#status).
 
 ## Trying it
 
