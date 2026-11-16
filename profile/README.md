@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-demo%20coming%20soon-111111?style=flat-square&labelColor=000000" alt="Status: demo coming soon">
+  <img src="https://img.shields.io/badge/status-demo%200.1.0-111111?style=flat-square&labelColor=000000" alt="Status: demo 0.1.0">
   <img src="https://img.shields.io/badge/platform-macOS%20first-111111?style=flat-square&labelColor=000000&logo=apple&logoColor=white" alt="Platform: macOS first">
   <br>
   <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white" alt="Rust">
@@ -43,7 +43,7 @@ Coding agents are good enough to be handed real work, and they run with your she
 - **Govern.** One policy file, written by you, says what each agent may do. An MCP gateway sits in front of the tools (allow, ask, deny) and an agent hook covers the shell and the file tools, by tool name and by file path. A denied call does not reach the tool.
 - **Audit.** Every decision goes to a hash-chained trail before it takes effect. You can verify the chain and export it.
 
-It runs on your machine. No account, no cloud service of ours, no telemetry.
+It runs on your machine. Your code and your prompts do not pass through us, and there is no telemetry. The demo asks you to sign in once with a demo account, and then works offline until that access expires.
 
 ## Why the name
 
@@ -57,7 +57,7 @@ It is built in small slices. Each one ships with its tests, its documentation an
 
 ## Where it stands
 
-In active development, macOS first. Working today in development builds:
+In active development, macOS first. Working today in the demo:
 
 | Area | State |
 |---|---|
@@ -74,9 +74,13 @@ What Trackside does not do yet is said as plainly as what it does. The limits of
 
 ## Trying it
 
-There is no public build yet. The first release will be a demo build for macOS, so developers can try it and say what they think. Trackside is not open source.
+The first demo build is out, for Macs with Apple silicon. Create a demo account on the [account page](https://tracksidehq.dev/account.html), then install the demo from the Terminal:
 
-Until then: join the waitlist on the [website](https://tracksidehq.dev) to get one email when the demo is out, or **follow this organization** (the Follow button at the top of this page).
+```sh
+curl -fsSL https://tracksidehq.dev/install.sh | sh
+```
+
+The app is not notarized by Apple, which is why it is installed from the Terminal. The builds and the place for feedback are in the [trackside](https://github.com/tracksidehq/trackside) repository. Trackside is not open source.
 
 ## Built with
 
