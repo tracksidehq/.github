@@ -12,8 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-coming%20soon-111111?style=flat-square&labelColor=000000" alt="Status: coming soon">
-  <img src="https://img.shields.io/badge/license-Apache--2.0-111111?style=flat-square&labelColor=000000" alt="License: Apache-2.0">
+  <img src="https://img.shields.io/badge/status-demo%20coming%20soon-111111?style=flat-square&labelColor=000000" alt="Status: demo coming soon">
   <img src="https://img.shields.io/badge/platform-macOS%20first-111111?style=flat-square&labelColor=000000&logo=apple&logoColor=white" alt="Platform: macOS first">
   <br>
   <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white" alt="Rust">
@@ -54,7 +53,7 @@ Trackside is where a race team stands: every car in view at once, telemetry on t
 
 Trackside began in November 2026 as a personal project, around one question: can several coding agents be put on the same task, side by side, with one set of rules and one record of what happened?
 
-It is built in small slices. Each one ships with its tests, its documentation and a written decision record that says what was chosen, what was left out and what was not tested. That record opens with the code.
+It is built in small slices. Each one ships with its tests, its documentation and a written decision record that says what was chosen, what was left out and what was not tested.
 
 ## Where it stands
 
@@ -75,9 +74,9 @@ What Trackside does not do yet is said as plainly as what it does. The limits of
 
 ## Trying it
 
-There is no public build yet. The source will be published in this organization, under Apache-2.0, together with the first build you can download.
+There is no public build yet. The first release will be a demo build for macOS, so developers can try it and say what they think. Trackside is not open source.
 
-Until then: **watch this organization** (the Follow button at the top of this page) to be notified when the repository opens.
+Until then: join the waitlist on the [website](https://tracksidehq.dev) to get one email when the demo is out, or **follow this organization** (the Follow button at the top of this page).
 
 ## Built with
 
